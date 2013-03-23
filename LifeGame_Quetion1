@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Style-Type" content="text/html">
+<title>質問１</title>
+<style type="text/css">
+  a.btn1
+	{
+		display:block;
+		width:150px;
+		color:#ffffff;
+		background-color: #666699;
+		boder:outset 2px #9999cc;
+		margin:30px,30px,30px,30px;
+		margin-top:auto;
+		padding:10px 10px 10px 10px;
+		font-size:12px;
+		text-align:center;
+		text-decoration:none;
+		display:inline;
+	}
+
+	a.btn2
+	{
+		display:block;
+		width:150px;
+		color:#ffffff;
+		background-color: #666699;
+		boder:outset 2px #9999cc;
+		margin:30px,30px,30px,30px;
+		margin-top:auto;
+		padding:10px 10px 10px 10px;
+		font-size:12px;
+		text-align:center;
+		text-decoration:none;
+		display:inline;
+	}
+
+	a.btn3
+	{
+		display:block;
+		width:150px;
+		color:#ffffff;
+		background-color: #666699;
+		boder:outset 2px #9999cc;
+		margin:30px,30px,30px,30px;
+		margin-top:auto;
+		padding:10px 10px 10px 10px;
+		font-size:12px;
+		text-align:center;
+		text-decoration:none;
+		display:inline;
+	}
+
+	a.btn4
+	{
+		display:block;
+		width:150px;
+		color:#ffffff;
+		background-color: #666699;
+		boder:outset 2px #9999cc;
+		margin:30px,30px,30px,30px;
+		margin-top:auto;
+		padding:10px 10px 10px 10px;
+		font-size:12px;
+		text-align:center;
+		text-decoration:none;
+		display:inline;
+	}
+</style>
+</head>
+<body bgcolor="#ffffff">
+	<center>
+		<center>あなたの職業はなんですか？</center>
+		<img src="Rican Frog.jpg" width="120" height="100">
+		<br>
+		<a href="Quetion2.html" class="btn1" style="position:relative;top:10px;left:60px;">猫です。</a>
+		<a href="Quetion3.html" class="btn2" style="position:relative;top:10px;left:60px;">犬です。</a>
+		<a href="Quetion4.html" class="btn3" style="position:relative;top:50px;right:85px;">猿です。</a>
+		<a href="Quetion5.html" class="btn4" style="position:relative;top:50px;right:85px;">雉です。</a>
+	</center>
+</body>
+</body>
+</html>
