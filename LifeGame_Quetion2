@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/html">
+<title>質問１</title>
+<style type="text/css">
+  a.btn1
+	{
+		display:block;
+		width:150px;
+		color:#ffffff;
+		background-color: #666699;
+		boder:outset 2px #9999cc;
+		margin:30px,30px,30px,30px;
+		margin-top:auto;
+		padding:10px 10px 10px 30px;
+		font-size:12px;
+		text-align:center;
+		text-decoration:none;
+		display:inline;
+	}
+
+	a.btn2
+	{
+		display:block;
+		width:150px;
+		color:#ffffff;
+		background-color: #666699;
+		boder:outset 2px #9999cc;
+		margin:30px,30px,30px,30px;
+		margin-top:auto;
+		padding:10px 10px 10px 10px;
+		font-size:12px;
+		text-align:center;
+		text-decoration:none;
+		display:inline;
+	}
+
+	a.btn3
+	{
+		display:block;
+		width:150px;
+		color:#ffffff;
+		background-color: #666699;
+		boder:outset 2px #9999cc;
+		margin:30px,30px,30px,30px;
+		margin-top:auto;
+		padding:10px 10px 10px 40px;
+		font-size:12px;
+		text-align:center;
+		text-decoration:none;
+		display:inline;
+	}
+
+	a.btn4
+	{
+		display:block;
+		width:150px;
+		color:#ffffff;
+		background-color: #666699;
+		boder:outset 2px #9999cc;
+		margin:30px,30px,30px,30px;
+		margin-top:auto;
+		padding:10px 50px 10px 10px;
+		font-size:12px;
+		text-align:center;
+		text-decoration:none;
+		display:inline;
+	}
+</style>
+</head>
+<body bgcolor="#ffffff">
+	<center>
+		<center>あなたの職業はなんですか？</center>
+		<img src="Rican Frog.jpg" width="120" height="100">
+		<br>
+		<a href="Anser1.html" class="btn1" style="position:relative;top:10px;left:150px;">フリーターです。</a>
+		<a href="Quetion6.html" class="btn2" style="position:relative;top:10px;left:150px;">WEBクリエイターです。</a>
+		<a href="Quetion7.html" class="btn3" style="position:relative;top:50px;right:150px;">映像関係です。</a>
+		<a href="Quetion8.html" class="btn4" style="position:relative;top:50px;right:150px;">雑誌編集者です。</a>
+	</center>
+</body>
+</html>
